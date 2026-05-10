@@ -1,0 +1,1 @@
+[("Alexandrescu", 7), ("Baciu", 10), ("Ionescu", 9), ("Popescu", 3), ("Radu", 6), ("Gheorghe", 11)]
